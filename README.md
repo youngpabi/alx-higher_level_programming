@@ -1,1 +1,1 @@
-python - form the very call
+python - form the very core
